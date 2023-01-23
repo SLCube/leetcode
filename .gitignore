@@ -1,4 +1,4 @@
 # Project exclude paths
 /out/
 leetcode.iml
-.idea
+.idea/
