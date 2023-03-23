@@ -5,7 +5,7 @@ public class RemoveNthFromEnd {
         ListNode tail = new ListNode(5);
         ListNode fourth = new ListNode(4, tail);
         ListNode third = new ListNode(3, fourth);
-        ListNode second = new ListNode(2);
+        ListNode second = new ListNode(2, third);
         ListNode head = new ListNode(1, second);
 
         removeNthFromEnd(head, 2);
