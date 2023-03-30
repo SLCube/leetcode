@@ -14,6 +14,7 @@ public class Triangle {
         System.out.println("triangle.minimumTotal(input) = " + triangle.minimumTotal(input));
     }
 
+    // dp의 기본은 기록 기록을 어떻게 하냐 그것이 문제!
     public int minimumTotal(List<List<Integer>> triangle) {
         int m = triangle.size();
         int n = triangle.get(m-1).size();
