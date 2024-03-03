@@ -49,7 +49,7 @@
 
 package leetcode.editor.en;
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Q01 {
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
 

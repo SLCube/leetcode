@@ -1,4 +1,4 @@
-package algorithm1.day5;
+package leetcode.editor.en;
 
 public class ListNode {
     int val;
